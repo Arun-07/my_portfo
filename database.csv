@@ -1,0 +1,3 @@
+email,subject,message
+test@test.com,Test working of DB,This is to test if the message is getting stored in local DB.
+test@test.com,Test working of DB,This is to test if the message is getting stored in local DB.
